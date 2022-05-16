@@ -1,3 +1,3 @@
 ## James' very amazing site
 
-There is nothing here for now.
+Hosted using Godaddy on [jamiesonallz.com](https://jamiesonallz.com/).
