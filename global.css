@@ -34,8 +34,6 @@ p {
 .page-list {
     margin: auto;
     width: fit-content;
-    /*border: 5px solid black;
-    border-radius: 5px;*/
     padding: 10px;
 }
 
