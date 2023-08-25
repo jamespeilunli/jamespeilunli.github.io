@@ -1,3 +1,3 @@
 ## James' very amazing site
 
-Hosted using Godaddy on [jamiesonallz.com](https://jamiesonallz.com/).
+Hosted on [jamespeiluni.github.io](jamespeilunli.github.io)
